@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094367935153",
+    "project_id": "trading-bbdf8",
+    "storage_bucket": "trading-bbdf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094367935153:android:df931be7a007fe4f68c090",
+        "android_client_info": {
+          "package_name": "com.example.tradingrateinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094367935153-jobh6fgope0tg3prtv2c3m3sm5or07lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbPkrC-5499SxES24I16d0xAMVCP6UBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094367935153-jobh6fgope0tg3prtv2c3m3sm5or07lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

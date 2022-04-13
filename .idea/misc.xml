@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/drawable/ic_attachment.xml" value="0.1295" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/drawable/search_ed.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_admin.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_admin_map.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_buyer_panel.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_main.xml" value="0.19692307692307692" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_profile_screen.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_saller_panel.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_seller_map.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_sign_in_screen.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_add_product.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_admin_history.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_history.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_home.xml" value="0.1859375" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_new_order.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_new_seller.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_purchase.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_purchaser.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_salle.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_seller.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_seller_history.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/fragment_stock.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_buyer.xml" value="0.22" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_history.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_new_order.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_new_sellers.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_product.xml" value="0.33" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/layout/item_layout_seller.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/menu/admin_nv_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/menu/seller_nv_menu.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/AndroidJava/TradingRateInformation/app/src/main/res/menu/toolbar_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
